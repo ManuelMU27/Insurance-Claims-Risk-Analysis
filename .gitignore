@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Data files
+data/raw/*.csv
+data/cleaned/*.csv
+
+# Temporary files
+*.tmp
+*.log
+
+# Large Power BI file
+powerbi/*.pbix
